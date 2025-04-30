@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    background: #fff;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    text-align: center;
+}
+input {
+    padding: 8px;
+    width: 150px;
+    margin-right: 5px;
+}
+button {
+    padding: 8px 12px;
+    margin-right: 5px;
+}
+.contact-list {
+    margin-top: 20px;
+    font-size: 18px;
+    word-spacing: 10px;
+}
